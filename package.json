@@ -1,5 +1,5 @@
 {
-               "name": "PRABATH-MD",
+               "name": "CHATHUN",
                "version": "5.0.0",
                "description": "Multi device whatsapp bot by prabath.",
                "main": "lib/client.js",
@@ -89,5 +89,8 @@
                  "bugs": {
                  "url": "https://github.com/prabathLK/PRABATH_MD/issues"
                   },
-                 "homepage": "https://github.com/prabathLK/PRABATH_MD#readme"
+                 "homepage": "https://github.com/prabathLK/PRABATH_MD#readme",
+                 "yt-search":"2.12.1",
+                 "api-dylux":"1.8.5"
               }
+            }
